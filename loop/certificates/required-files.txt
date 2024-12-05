@@ -1,0 +1,7 @@
+.
+├── 8d54c0fc752d516a8d00882f1d5d70b940459905de0bca7a42ef691de792555e-public.pem.key
+├── AmazonRootCA1.pem
+├── AmazonRootCA3.pem
+├── Archive.zip
+├── device-certificate.pem.crt
+├── private.pem.key
