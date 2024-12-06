@@ -17,7 +17,11 @@
 3. **MongoDB Database**: Stores license plate and parking spot information.
 4. **React Frontend**: Provides a user-friendly interface to access parking data.
 
+
 ## Project Structure - FindMyCar ( Front-End )
+![Plate Query](/images/ParkingQueryFinalAfter.png)
+![AdminDashboard](/images/AdminDashboard.png)
+![Parking Spot Logs](/images/ParkingSpotLogs.png)
 
 ```
 findmycar/
@@ -116,6 +120,8 @@ The function requires the following environment variables:
 
 # Raspberry Pi IoT Module
 
+![](/images/Rpi-IOTModule.jpeg)
+
 ## Overview
 The `loop` folder contains the code that  is designed to operate on a Raspberry Pi, enabling edge device functionality for data capture, processing, and secure communication. This repository includes Python scripts, environmental configurations, and supporting assets for deployment.
 
@@ -158,6 +164,9 @@ Gopal Guruprasath
 Koh Chee Kiat
 Elvern Neylmav Tanny
 Noven Zen Hong Guan 
+![We had fun with this](/images/GroupProject.jpeg)
 
 3d models from https://poly.pizza
 Basic IR sensor setup https://www.donskytech.com/using-infrared-ir-sensor-with-raspberry-pi/
+
+![Take a cool car](/images/CoolCar.jpeg)
