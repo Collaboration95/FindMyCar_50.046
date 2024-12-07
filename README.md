@@ -161,9 +161,9 @@ loop/
 
 ## Contributions
 Gopal Guruprasath 
-Koh Chee Kiat
 Elvern Neylmav Tanny
 Noven Zen Hong Guan 
+Koh Chee Kiat
 ![We had fun with this](/images/GroupProject.jpeg)
 
 3d models from https://poly.pizza
